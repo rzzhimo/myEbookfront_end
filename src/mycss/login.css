@@ -1,0 +1,21 @@
+#img{
+    padding:0px;
+
+    outline: none;
+    height: 100%;
+    width: 80%;
+}
+
+#top{
+    height: 10%;
+}
+.input,.button{
+    width:80%;/**宽度**/
+
+    position:relative;
+    left:10%;
+}
+h2{
+    text-align: center;
+    height: 50%;
+}

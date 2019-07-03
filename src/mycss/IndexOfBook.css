@@ -1,0 +1,43 @@
+.el-header {
+    background-color: #B3C0D1;
+    color: #333;
+    text-align:left;
+    line-height: 10%;
+}
+.el-footer {
+    background-color: #B3C0D1;
+    color: #333;
+    text-align: center;
+    bottom: 0%;
+}
+
+.el-aside {
+    background-color: #D3DCE6;
+    color: #333;
+    text-align: -moz-left;
+    line-height: 120%;
+
+}
+
+.el-main {
+    background-color: #E9EEF3;
+    color: #333;
+    text-align: center;
+    line-height: 120%;
+}
+.el-row {
+    line-height: 50px;
+}
+.book {
+    padding:0px;
+    outline: none;
+    height: 300px;
+    width: 200px;
+}
+
+.button1{
+    width:20%;/**宽度**/
+
+    position:relative;
+    left:2%;
+}

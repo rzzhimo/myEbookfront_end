@@ -1,0 +1,49 @@
+.el-header {
+    background-color: #B3C0D1;
+    color: #333;
+    text-align:left;
+    line-height: 10%;
+}
+.el-footer {
+    background-color: #B3C0D1;
+    color: #333;
+    text-align: center;
+    bottom: 0%;
+}
+
+.el-aside {
+    background-color: #D3DCE6;
+    color: #333;
+    text-align: center;
+    line-height: 100%;
+}
+
+.el-main {
+    background-color: #E9EEF3;
+    color: #333;
+    text-align: center;
+    line-height: 100%;
+}
+
+h1,h3{
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
+.el-row {
+    line-height: 50px;
+}
+.book1 {
+    padding:0px;
+    outline: none;
+    height: 100%;
+    width: 80%;
+}
+.book2 {
+    padding:2%;
+    outline: none;
+    position: relative;
+    height: 30%;
+    width: 20%;
+}
